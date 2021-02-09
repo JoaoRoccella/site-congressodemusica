@@ -1,1 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@200;400&display=swap');
+
+body {
+    margin: 0 auto;
+    max-width: 960px; 
+    background-color: beige;  
+}
+
+.intro-heading {
+    font-size: 2.2rem;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: center;
+    padding: 2.2rem 0;
+}
+
+.intro-logo {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.intro-title {
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+
+.intro-subtitle {
+    font-size: 1.8rem;
+    font-weight: 200;
+}
+
+.intro-image {
+    max-width: 100%;
+}
+
+footer {
+    text-align: center;
+}
+
+.copyright {
+    font-size: .8rem;
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 400;
+}
 
